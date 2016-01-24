@@ -1,0 +1,7 @@
+-neko main.n
+-main Main
+-cmd neko main.n hello
+-lib mcli
+-dce full
+-D analyzer
+-D use_rtti_doc
